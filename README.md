@@ -12,7 +12,7 @@
 
 🤝 **Looking to collaborate** on backend projects and RESTful API development
  
-📫 Reach me at: [devguilhermeribeiro000@gmail.com](mailto:devguilhermeribeiro000@gmail.com)
+📫 Reach me at: [devguilhermeribeiro000@proton.me](mailto:devguilhermeribeiro000@proton.me)
 
 
 ## 🌐 Socials:
