@@ -39,20 +39,22 @@
   <a href="https://linkedin.com/in/guilherme-ribeiro-035954320">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://redatordev.onrender.com">
-    <img src="https://img.shields.io/badge/Blog-FF0000?style=for-the-badge&logo=dev.to&logoColor=white"/>
-  </a>
 </p>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=devguilhermeribeiiro&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=devguilhermeribeiiro&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=devguilhermeribeiiro&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+---
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=devguilhermeribeiiro&limit=5&theme=radical&combine_all_yearly_contributions=true)
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=devguilhermeribeiiro&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devguilhermeribeiiro&theme=tokyonight&layout=compact&hide_border=true" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=devguilhermeribeiiro&theme=tokyonight&hide_border=true" height="150"/>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=devguilhermeribeiiro&icon=0&color=7)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=devguilhermeribeiiro&icon=0&color=7" />
+</p>
