@@ -1,39 +1,48 @@
-# 💫 About Me:
+<h1 align="center">👨‍💻 Guilherme Ribeiro</h1>
+<p align="center">
+  <b>Backend PHP Developer</b> <br/>
+  🚀 Building scalable and secure web applications
+</p>
 
-👋 Hi, I’m [Guilherme Ribeiro](https://github.com/devguilhermeribeiiro)<br>
+---
 
-# 👨‍💻 **Backend Developer**<br> 
+## ✨ About Me  
+- 💻 Passionate about **backend development** and **API design**  
+- ⚡ Currently working with **PHP 8+, Laravel, PostgreSQL, Redis**  
+- 🌍 Open to collaborations on **RESTful APIs** and **scalable backend systems**  
+- 📫 Reach me at: [devguilhermeribeiro000@proton.me](mailto:devguilhermeribeiro000@proton.me)  
 
-🎯 Focused on creating **scalable** and **maintainable** backend systems<br>
+---
 
-👀 **Passionate about** backend development, scalable systems, and modern web technologies
+## 🛠️ Tech Stack  
 
-🌱 **Currently mastering** **Ruby on Rails**, **REST APIs**, **PostgreSQL**, and **Redis**
+### ⚙️ Backend & Frameworks
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white)
 
-🤝 **Looking to collaborate** on backend projects and RESTful API development
- 
-📫 Reach me at: [devguilhermeribeiro000@proton.me](mailto:devguilhermeribeiro000@proton.me)
+### 🗄️ Databases & Caching
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
+### ⚡ DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/guilherme-ribeiro-035954320) [![Blog](https://img.shields.io/badge/Blog-red?style=flat-square&logo=dev.to&logoColor=white)](https://redatordev.onrender.com) 
+---
 
-# 💻 Tech Stack:
-
-[![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)](https://www.ruby-lang.org/)
-[![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)](https://rubyonrails.org/)
-[![Hotwire](https://img.shields.io/badge/Hotwire-%23FF813F.svg?style=for-the-badge&logo=hotwire&logoColor=white)](https://hotwired.dev/)
-[![Stimulus](https://img.shields.io/badge/Stimulus-%2371CDE4.svg?style=for-the-badge&logo=stimulus&logoColor=white)](https://stimulus.hotwired.dev/)
-[![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-[![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)](https://render.com/)
-[![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/)
-[![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-[![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-[![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)](https://www.nginx.com/)
-[![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
+## 🌐 Connect with Me  
+<p align="center">
+  <a href="https://linkedin.com/in/guilherme-ribeiro-035954320">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://redatordev.onrender.com">
+    <img src="https://img.shields.io/badge/Blog-FF0000?style=for-the-badge&logo=dev.to&logoColor=white"/>
+  </a>
+</p>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=devguilhermeribeiiro&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
