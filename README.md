@@ -1,28 +1,40 @@
 <h1 align="center">👨‍💻 Guilherme Ribeiro</h1>
 <p align="center">
-  <b>Backend PHP Developer</b> <br/>
-  🚀 Building scalable and secure web applications
+  <b>Backend Developer</b> <br/>
+  🚀 Ruby Enthusiast | Scalable & Secure Web Applications
 </p>
 
 ---
 
 ## ✨ About Me  
-- 💻 Passionate about **backend development** and **API design**  
-- ⚡ Currently working with **PHP 8+, Laravel, PostgreSQL, Redis**  
-- 🌍 Open to collaborations on **RESTful APIs** and **scalable backend systems**  
+- 💎 Specialized in **Ruby** and **Ruby on Rails** for backend development  
+- 💻 Experienced with **API design**, **relational databases**, and **scalable architectures**  
+- ⚡ Secondary stack with **PHP (Laravel)** for web and API projects  
+- 🌍 Open to collaborations on **RESTful APIs** and **backend systems**  
 - 📫 Reach me at: [devguilhermeribeiro000@proton.me](mailto:devguilhermeribeiro000@proton.me)  
 
 ---
 
 ## 🛠️ Tech Stack  
 
-### ⚙️ Backend & Frameworks
+### 💎 Core Skills – Ruby
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+![Rails](https://img.shields.io/badge/Ruby%20on%20Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
+![Hotwire](https://img.shields.io/badge/Hotwire-FF813F?style=for-the-badge&logo=hotwire&logoColor=white)
+![Stimulus](https://img.shields.io/badge/Stimulus-71CDE4?style=for-the-badge&logo=stimulus&logoColor=white)
+
+### ⚙️ Secondary Skills – PHP
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white)
 
+### ✨ Complementary Skills
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
 ### 🗄️ Databases & Caching
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
@@ -35,8 +47,8 @@
 ---
 
 ## 🌐 Connect with Me  
-<p align="center">
-  <a href="https://linkedin.com/in/guilherme-ribeiro-035954320">
+<p align="start">
+  <a href="https://www.linkedin.com/in/devguilhermeribeiro/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
